@@ -1,0 +1,351 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.main_background{
+    height: 640px;
+    width: 100%;
+    float: left;
+}
+.section1{
+    height: 100%;
+    width: 20%;
+    float: left;
+    background-color: rgb(219, 237, 250);
+}
+.Gmail_icon_logdiv{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color:rgb(219, 237, 250);
+}
+.three_line_odiv{
+height: 100%;
+width: 20%;
+float: left;
+text-align: center;
+}
+.three_line_odiv i{
+font-size: 20px;
+margin-top: 25%;
+}
+.logo_odiv{
+    height: 100%;
+    width: 80%;
+    float: left;
+}
+.logo{
+    height: 50%;
+    width: 50%;
+    background-image: url(gmail.png);
+    background-size: 100% 100%;
+    margin-top: 5%;
+    margin-left: 10px;
+}
+.composediv{
+    height: 85px;
+    width: 100%;
+    float: left;
+    background-color:  rgb(219, 237, 250);
+}
+.backcompdivbor{
+    height: 70%;
+    width: 50%;
+    float: left;
+    background-color: rgb(167, 225, 248);
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.logocompdiv{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.logocompdiv i{
+    font-size: 18px;
+    color: rgb(94, 91, 91);
+    margin-top: 45%;
+    margin-left: 30%;
+}
+.namecompdiv{
+    height: 100%;
+    width: 75%;
+    float: left;
+}
+.namecompdiv h4{
+margin-top: 15%;
+margin-left: 5%;
+}
+.inboxbackdiv1{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color:  rgb(219, 237, 250);
+}
+.inboxbackdiv2{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color:  rgb(219, 237, 250);
+}
+.bordrdivinbox{
+    height: 80%;
+    width: 90%;
+    float: left;
+    background-color:rgb(146, 186, 231);
+    border-radius: 0px 30px 30px 0px;
+}
+
+.iboxpart1logo{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.iboxpart1logo i{
+    font-size: 20px;
+    margin-left: 28px;
+    margin-top: 10px;
+}
+.iboxpart2name{
+    height: 100%;
+    width: 70%;
+    float: left;
+}
+.iboxpart2name h4{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.iboxpart3num{
+    height: 100%;
+    width: 10%;
+    float: left;
+}
+.iboxpart3num h4{
+    margin-top: 10px;
+    margin-left: 0px;
+    float: left;
+}
+.labelsicondiv{
+    height: 100px;
+    width: 90%;
+    float: left;
+}
+.label{
+    height: 100%;
+    width: 70%;
+    float: left;
+}
+.plusicon{
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.plusicon i{
+    margin-top: 25%;
+    float: right;
+}
+.labelsicondiv h3{
+margin-left: 30px;
+margin-top: 10%;
+}
+.searchbackdiv{
+    height: 70px;
+    width: 75%;
+    float: left;
+    background-color: rgb(219, 237, 250);
+    
+}
+.search{
+    height: 80%;
+    width: 60%;
+    float: left;
+    margin-top: 5px;
+    background-color: rgb(207, 228, 247);
+    border-radius: 10px;
+    border: none;
+    margin-left: 10px;
+
+}
+.search input{
+    height: 100%;
+    width: 90%;
+    font-size: 15px;
+    float: left;
+    border: none;
+    background-color: rgb(207, 228, 247);
+    border-radius: 10px;
+
+}
+.filtericon{
+    height: 100%;
+    width: 10%;
+    float: left;
+}
+.filtericon i{
+    font-size: 20px;
+    margin: 20px;
+}
+.helpicons1111{
+    height: 100%;
+    width: 29%;
+    float: left;
+}
+.helpicons{
+    height: 100%;
+    width: 10%;
+    float: left;
+}
+.helpicons ul{
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+.helpicons li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 22px;
+}
+.sreenbackground{
+    height: 570px;
+    width: 100%;
+    float: left;
+    background-color: rgb(219, 237, 250);
+}
+.screen{
+    height:100%;
+    width: 100%;
+    float: left;
+    background-color: white;
+    border-radius: 10px;
+}
+.selectbar{
+    height: 30px;
+    width: 100%;
+    float: left;
+}
+.selectsicons{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.selectsiconsspace{
+    height: 100%;
+    width: 55%;
+    float: left;
+}
+.selectsiconslast{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.icons1selbar{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.icons2selbar{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.icons3selbar{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.icons4selbar{
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+.selct1sec{
+    height: 100%;
+    width: 60%;
+    float: left;
+}
+.selct2sec{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.selct3sec{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.MENUPPSicon{
+    height: 80px;
+    width: 5%;
+    float: left;
+}
+.Menuname{
+    height:80px;
+    width:20%;
+    float: left;
+}
+.emptydivmenu{
+    height: 80px;
+    width: 25%;
+    float: left;
+}
+.messagebarread{
+    height: 50px;
+    width: 100%;
+    float: left;
+}
+.messagebarread1{
+    height: 50px;
+    width: 100%;
+    float: left;
+    background-color: rgb(164, 209, 239);
+}
+.icon1message{
+    height: 100%;
+    width: 5%;
+    float: left;
+}
+.sendername{
+    height: 100%;
+    width: 17%;
+    float: left;
+}
+.messagesveiw{
+  height: 100%;
+  width: 65%;
+  float: left; 
+}
+.time{
+    height: 100%;
+    width: 8%;
+    float: left;
+}
+.lefticons{
+    height: 640px;
+    width: 5%;
+    float: left;
+    background-color: rgb(219, 237, 250);
+}
+.gmailprofileicon{
+    height: 80px;
+    width: 100%;
+    float: left;
+}
+.profilelogo{
+    height: 75%;
+    width: 75%;
+    float: left;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 8px;
+    margin-top: 5px;
+    background-image: url("https://rukminim1.flixcart.com/image/416/416/k4324y80/wallpaper/t/e/m/61-91-5-vp-wp1826-2436-art-amori-original-imafn2u6hgdrzzd6.jpeg?q=70");
+    background-size: 100% 100%;
+}
+.pluslastbar{
+height: 100px;
+width: 100%;
+float: left;
+}
